@@ -7,10 +7,13 @@ members = [
 resolver = "3"
 
 [workspace.dependencies]
+guard_macros = "1.0.2"
+convert_case = "0.8.0"
+itertools = "0.14.0"
+
 proc-macro2 = "1.0.95"
+proc-macro-error2 = "2.0.1"
 quote = "1.0.40"
 syn = "2.0.101"
-derivesupercoolgetter_derive.path = "crates/derivesupercoolgetter_derive"
-guard_macros = "1.0.2"
 
-convert_case = "0.8.0"
+derivesupercoolgetter_derive.path = "crates/derivesupercoolgetter_derive"
