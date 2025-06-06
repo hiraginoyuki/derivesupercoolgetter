@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/hiraginoyuki/derivesupercoolgetter)
+
 ```rs
 use derivesupercoolgetter::SuperCoolGetter;
 
